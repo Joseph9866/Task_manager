@@ -33,5 +33,5 @@ This is a front-end application built as part of **Week 3** of the **PLP Softwar
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Task_manager.git
+git clone https://github.com/Joseph9866/Task_manager.git
 cd Task_manager
