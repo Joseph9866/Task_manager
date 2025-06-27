@@ -1,6 +1,6 @@
-# PLP Week 3 Project – React + Vite + Tailwind CSS 🚀
+# Task Manager – React + Vite + Tailwind CSS 🚀
 
-This is a front-end application built as part of **Week 3** of the **PLP Software Engineering Program**. The project demonstrates proficiency in **React.js**, **JSX**, **Tailwind CSS**, **component architecture**, **state management**, **React hooks**, and **API integration**.
+This is a front-end application built as part of **Week 3** of the **PLP Software Engineering Program**. The project, named **Task Manager**, demonstrates proficiency in **React.js**, **JSX**, **Tailwind CSS**, **component architecture**, **state management**, **React hooks**, and **API integration**.
 
 ## 📌 Features
 
@@ -33,5 +33,5 @@ This is a front-end application built as part of **Week 3** of the **PLP Softwar
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/PLP_week3.git
-cd PLP_week3
+git clone https://github.com/your-username/Task_manager.git
+cd Task_manager
