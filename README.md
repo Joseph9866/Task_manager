@@ -2,6 +2,14 @@
 
 This is a front-end application built as part of **Week 3** of the **PLP Software Engineering Program**. The project, named **Task Manager**, demonstrates proficiency in **React.js**, **JSX**, **Tailwind CSS**, **component architecture**, **state management**, **React hooks**, and **API integration**.
 
+---
+
+## 🌐 Live Demo
+
+👉 [Click here to view the live project on Vercel](https://task-manager-smoky-sigma.vercel.app)
+
+---
+
 ## 📌 Features
 
 - ✅ Responsive layout with **Tailwind CSS**
