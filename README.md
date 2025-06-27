@@ -18,7 +18,7 @@ This is a front-end application built as part of **Week 3** of the **PLP Softwar
 ![Add Task](./Screenshot1.png)
 
 ### 🌗 Dark Mode
-![Dark Mode](../Screenshot1.png)
+![Dark Mode](./Screenshot1.png)
 
 
 
