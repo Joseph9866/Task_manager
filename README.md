@@ -1,0 +1,37 @@
+# PLP Week 3 Project – React + Vite + Tailwind CSS 🚀
+
+This is a front-end application built as part of **Week 3** of the **PLP Software Engineering Program**. The project demonstrates proficiency in **React.js**, **JSX**, **Tailwind CSS**, **component architecture**, **state management**, **React hooks**, and **API integration**.
+
+## 📌 Features
+
+- ✅ Responsive layout with **Tailwind CSS**
+- ✅ Reusable UI components (Button, Card, Navbar, Footer)
+- ✅ Routing using **React Router**
+- ✅ Task Manager with:
+  - Add / Complete / Delete tasks
+  - Filter: All, Active, Completed
+- ✅ Custom hook: `useLocalStorage`
+- ✅ Theme switching (Light/Dark mode)
+- ✅ API integration (e.g., JSONPlaceholder)
+- ✅ Loading and error states
+- ✅ Search and pagination support
+
+---
+
+## 🧱 Technologies Used
+
+- ⚛️ React.js (with Vite)
+- 🎨 Tailwind CSS
+- 🔃 React Router DOM
+- 🧠 React Hooks (`useState`, `useEffect`, `useContext`)
+- 🌐 Public API Integration (e.g., JSONPlaceholder)
+
+---
+
+## 🛠️ Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/PLP_week3.git
+cd PLP_week3
