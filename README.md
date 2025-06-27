@@ -12,13 +12,13 @@ This is a front-end application built as part of **Week 3** of the **PLP Softwar
 ## 📷 Screenshots
 
 ### 🏠 Home Page
-![Home](./screenshort/Screenshot1.png)
+![Home](./Screenshot1.png)
 
 ### ➕ Add Task
-![Add Task](./screenshort/Screenshot1.png)
+![Add Task](./Screenshot1.png)
 
 ### 🌗 Dark Mode
-![Dark Mode](../screenshort/Screenshot1.png)
+![Dark Mode](../Screenshot1.png)
 
 
 
