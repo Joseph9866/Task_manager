@@ -9,6 +9,18 @@ This is a front-end application built as part of **Week 3** of the **PLP Softwar
 👉 [Click here to view the live project on Vercel](https://task-manager-smoky-sigma.vercel.app)
 
 ---
+## 📷 Screenshots
+
+### 🏠 Home Page
+![Home](./screenshort/Screenshot1.png)
+
+### ➕ Add Task
+![Add Task](./screenshort/Screenshot1.png)
+
+### 🌗 Dark Mode
+![Dark Mode](../screenshort/Screenshot1.png)
+
+
 
 ## 📌 Features
 
